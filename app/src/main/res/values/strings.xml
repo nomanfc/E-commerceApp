@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ECommerce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="spinner">
+        <item>CASH ON DELIVERY</item>
+        <item>BKASH</item>
+        <item>DBL</item>
+        <item>NAGAD</item>
+    </string-array>
+
+</resources>
